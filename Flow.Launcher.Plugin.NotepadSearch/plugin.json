@@ -1,0 +1,12 @@
+{
+    "ID": "BDAC617F4B8F467B89A9F5543B25E9D0",
+    "ActionKeyword": "n:",
+    "Name": "NotepadSearch",
+    "Description": "Find what you are looking for in text directly",
+    "Author": "Valentin Mouget",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/snapfire/Flow.Launcher.Plugin.NotepadSearch",
+    "IcoPath": "Images/icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.NotepadSearch.dll"
+}
